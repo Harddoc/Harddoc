@@ -1,5 +1,5 @@
 <h1>Cześć, jestem Damian👋 </h1><br/>
-Back-end / Front-end Developer.<br/>
+<h4>Back-end / Front-end Developer.</h4><br/>
 Studiuje na WSB w Gdańsku.🔭<br/>
 Aktualnie pracuję nad wordle tylko ze to C# 🌱 <br/>
 Uczę się Pythona 📫 <br/>
