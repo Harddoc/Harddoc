@@ -1,7 +1,6 @@
 <h1>Cześć, jestem Damian👋 </h1><br/>
 <h4>Back-end / Front-end Developer.</h4><br/>
-Studiuje na WSB w Gdańsku.<br/>
-
+🧑‍🎓Studiuje na WSB w Gdańsku.<br/>
 🔭 Aktualnie pracuję nad wordle tylko ze to C#  <br/>
 🌱Uczę się Pythona  <br/>
 📫Skontaktuj się ze mną ofman.damian@gmail.com<br/>
