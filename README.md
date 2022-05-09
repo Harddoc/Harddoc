@@ -1,4 +1,4 @@
-Cześć, jestem Damian👋 <br/>
+<h1>Cześć, jestem Damian👋 </h1><br/>
 Back-end / Front-end Developer.<br/>
 Studiuje na WSB w Gdańsku.🔭<br/>
 Aktualnie pracuję nad wordle tylko ze to C# 🌱 <br/>
